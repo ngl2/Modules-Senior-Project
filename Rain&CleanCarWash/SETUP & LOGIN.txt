@@ -1,0 +1,12 @@
+- Nicholas Liodos - "Rain & Clean" Car Wash Project - 
+- Directions to install
+1 - Create and connect to a mysql database 
+   I used PhpMyAdmin w/ xampp
+2 - Run the queries located in .../Rain&CleanCarWash/database/database.sql to create the tables needed, 
+3 - Unzip and upload files to web server.
+5 - If you use the default Xampp and PhpMyAdmin settings, the database should connect with no issues. If you have a custom username and password, you will need to edit those two items within .../Rain&CleanCarWash/application/config/database.php
+
+6 - Navigate in browser .../Clean&RainCarWash/index.php
+7 - Login = (username:admin||password:project2017)
+
+
